@@ -31,4 +31,3 @@ The Lizard: Programming Quiz is a web-based interactive quiz application built u
 <img width="939" alt="Image" src="https://github.com/user-attachments/assets/ca08a931-7b01-4af1-8f1d-ccda92286ca7" />
 <img width="942" alt="Image" src="https://github.com/user-attachments/assets/e00ca4d7-3cfe-497c-b024-f054ea69fcbd" />
 <img width="937" alt="Image" src="https://github.com/user-attachments/assets/23bb45c0-4872-4447-bfae-775e86561cc3" />
-<img width="918" alt="Image" src="https://github.com/user-attachments/assets/7c16a731-4bca-44d5-8457-0a7282c8f955" />
