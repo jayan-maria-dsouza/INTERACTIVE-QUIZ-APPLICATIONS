@@ -1,0 +1,86 @@
+body {
+    background: #F2F2F2;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.website {
+    background-color: rgba(255, 255, 255, 0.9);
+    width: 90%;
+    max-width: 600px;
+    margin: 100px auto;
+    border-radius: 15px;
+    padding: 25px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    color:#074767 ;
+}
+.heading {
+    font-size: 40px;
+    font-weight: bold;
+    color:#074767 ;
+    padding: 20px;
+    
+}
+.options button {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    background: #460404;
+    color: white;
+    border-radius: 8px;
+    font-size: 18px;
+    transition: 0.3s;
+}
+.options button:hover {
+    background: #4d2f2f;
+}
+.nav-buttons button {
+    margin: 10px;
+    padding: 12px 25px;
+    background: #FFDB58;
+    color: rgb(27, 9, 57);
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: 0.3s;
+}
+.nav-buttons button:hover {
+    background: #efed75;
+}
+.result {
+    font-size: 22px;
+    font-weight: bold;
+    padding: 20px;
+    margin-top: 20px;
+}
+.icon {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    font-size: 26px;
+    cursor: pointer;
+    background: #e69cbb;
+    color: white;
+    border-radius: 50%;
+    padding: 12px 15px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+    transition: 0.3s;
+}
+.icon:hover {
+    background: #f7adc6;
+}
+.answers-container {
+    display: none;
+    background: rgba(255, 255, 255, 0.95);
+    color: black;
+    padding: 20px;
+    border-radius: 12px;
+    max-width: 550px;
+    margin: 30px auto;
+    text-align: left;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
